@@ -1,4 +1,4 @@
-package ru.krista.example; //comment
+package ru.krista.example; //comment new
 
 import java.util.Scanner;
 
